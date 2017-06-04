@@ -25,7 +25,7 @@
      * globals
      */
     var Element = w.HTMLElement || w.Element;
-    var SCROLL_TIME = 468;
+    var SCROLL_TIME = 468*5;
 
     /*
      * object gathering original scroll methods
